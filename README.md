@@ -1,7 +1,7 @@
 # webdev midterm last one im gonna kill myself holy shit
 
 - [Fundamentals](#fundamentals)
-    - [ECMAScript](#ecmascript)
+    - [ECMAScript](#ecmascrip)
     - [Command Line Interface (CLI)](#command-line-interface-cli)
     - [Console](#console)
     - [What's a Path](#whats-a-path)
